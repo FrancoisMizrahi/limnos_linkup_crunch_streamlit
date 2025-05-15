@@ -2,7 +2,7 @@ import streamlit as st
 import linkup_api
 
 st.set_page_config(page_title="LinkUp Cruncher", page_icon="🐉​", layout="wide")
-st.title("LinkUp Crunch")
+st.title("Linkup Crunch")
 
 
 with st.sidebar:
